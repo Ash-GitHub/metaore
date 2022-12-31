@@ -19,7 +19,7 @@ const Hero = () => {
               sharing and storing unlimited media files. A world of topics is
               waiting for you. Join the private beta.
             </p>
-            <button className='btn flex px-[60px] py-[12px] border rad rounded-[16px] border-[2px] max-w-[280px] backdrop-blur-[10px] justify-center align-center gap-4 font-bold text-white '>
+            <button className= ' relative z-30 btn flex px-[60px] py-[12px] border rad rounded-[16px] border-[2px] max-w-[280px] backdrop-blur-[10px] justify-center align-center gap-4 font-bold text-white '>
           <Image 
           src={PC} alt="PC" /> Get Started
         </button>

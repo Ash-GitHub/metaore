@@ -11,7 +11,7 @@ import Image from 'next/image'
 const Navbar = () => {
   return (
    <>
-   <div className="bg-gradient-to-r from-[#130b27] to-[#310247] z-23 sticky w-full h-[148px] flex as items-center justify-around align-center m-0  text-white font-bold">
+   <div className=" relative z-20 bg-gradient-to-r from-[#130b27] to-[#310247] z-23 sticky w-full h-[148px] flex as items-center justify-around align-center m-0  text-white font-bold">
 
     <SiBigcartel className='w-[38px] h-auto text-[#ffffffd8] backdrop-blur-[20px]' /> 
       <ul className="lg:flex hidden m-0 ">
